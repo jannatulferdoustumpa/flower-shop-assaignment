@@ -164,17 +164,13 @@
         padding: 10px;
         color: black;
       }  
-      .get-deals{
-        background-color: #27272750;
-        background-image: url('../flower asset/Rectangle\ 9.png');
-        background-repeat: no-repeat;
-        width: 100%;
-      }
+      
+      
     .latest-deals{
         height: 300px;
         width: 100%;
         background-color: #27272750;
-        background-image: url('../flower asset/Rectangle\ 9.png');
+        background-image: url("../flower asset/Rectangle\ 9.png");
         background-repeat: no-repeat;
          }
          .latest-form input{
